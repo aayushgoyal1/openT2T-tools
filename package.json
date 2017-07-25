@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "opent2t-thermostat":"1.0.0"
+  },
+  "dependencies": 
+  {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "https": "^1.0.0",
+    "q": "^1.4.1"
+  }
+}
