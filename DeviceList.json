@@ -1,1 +1,35 @@
+[{
+  
+  "DeviceName":"Wink-Thermostat",
+  "Onboarding":"Wink",
+  "id_filter":"thermostat_id",
+  "Schema": "Thermostat",
+  "Keywords": ["thermostat","nest","wink","ecobee","temperature"]
 
+},
+{
+  
+  "DeviceName":"Wink-Outlet",
+  "Onboarding":"Wink",
+  "id_filter":"binary_switch_id",
+  "Schema": "Outlet",
+  "Keywords": ["outlet","wink","ihome","temperature"]
+
+},
+{
+  
+  "DeviceName":"Philips Hue Bulb",
+  "Onboarding":"HueHub",
+  "Schema": "Lamp",
+  "Keywords": ["lamp","hue","philips","brightness"]
+
+},
+{
+  
+  "DeviceName":"Wink-Lamp",
+  "Onboarding":"Wink",
+  "id_filter":"light_bulb_id",
+  "Schema": "Lamp",
+  "Keywords": ["lamp","wink","ge","ge-link","brightness"]
+}
+]
